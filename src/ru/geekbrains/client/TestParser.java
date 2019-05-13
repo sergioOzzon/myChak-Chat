@@ -1,16 +1,16 @@
 package ru.geekbrains.client;
 
-import org.junit.Test;
+/*import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 import static ru.geekbrains.client.MessagePatterns.parseTextMessage;
 import static ru.geekbrains.client.MessagePatterns.parseTextMessageRegx;
 
-/**
+*//**
  * Unit тесты для различных методов сетевого чата
  * Прежде чем запускать, необходимо отметить папку test как Test Source Root
- */
+ *//*
 public class TestParser {
 
     @Test
@@ -37,4 +37,4 @@ public class TestParser {
     public void testParseConnectedMessage() {
         // TODO !написать тест для метода MessagePattern.ParseConnectedMessage
     }
-}
+}*/
