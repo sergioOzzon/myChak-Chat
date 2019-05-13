@@ -35,6 +35,6 @@ public class TestParser {
 
     @Test
     public void testParseConnectedMessage() {
-        // TODO написать тест для метода MessagePattern.ParseConnectedMessage
+        // TODO !написать тест для метода MessagePattern.ParseConnectedMessage
     }
 }
