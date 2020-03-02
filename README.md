@@ -1,2 +1,2 @@
-# myChak-Chat
-this is networkChat which created by my learning JavaCore
+# my chat Chak-Chak
+this is a network chat that was created while learning Java
